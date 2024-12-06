@@ -1,3 +1,3 @@
 # hello-git
 
-Author's email: master@hansung.ac.kr
+Author's email: tester@hansung.ac.kr
